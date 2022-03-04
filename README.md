@@ -1,19 +1,37 @@
 # 윤정빈 홈페이지
-## Welcome to GitHub Pages
+# 데이터분석과 : 백엔드 개발 및 빅데이터 분석 과정 수강 중
 
-Month of the Day
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkr.linkedin.com%2Fcompany%2Fmarchtee&psig=AOvVaw39jHK7ZH_kQwW9YNNgmdTb&ust=1646443831295000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLDKiLSnq_YCFQAAAAAdAAAAABAD"/> <br>
+**Month of the Day**<br>
+<img src="<iframe width="200" height="200" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"/> <br>
 
-Self Introduction
+**Self Introduction**<br>
 [발표자료](/2260341014.pdf) <br>
 
-** 지금 생각나는 것 **
-- 오늘 점심 메뉴
+**지금 생각나는 것**
+- 오늘의 점심 메뉴
 - 홈페이지 어떻게 꾸미지?
 - 무슨 사진을 넣으면 좋을까?
 
-## 동영상
-<iframe width="790" height="444" src="https://www.youtube.com/embed/mOajcjt8eeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## 내가 좋아하는 노래
+<iframe width="400" height="300" src="https://www.youtube.com/embed/mOajcjt8eeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>**태연 - Blue** <br><br>
+하얀 밤 아름답지만<br>
+더 차가운 밤 오늘<br>
+한 번만 다시 눈 맞춰줘 나를<br>
+좀 더<br>
+푸르게 번져가던 맘이 어느새<br>
+시들어버린 향기가 된 채<br>
+불러도 대답 없는 네 이름이<br>
+메아리처럼 울려<br>
+넌 나의 Blue<br>
+늘 그랬듯이<br>
+넌 나의 Blue<br>
+그리움만 가득 채워<br>
+번져도 아름다워<br>
+사랑이라는 말<br>
+너를 닮은 그 말<br>
+
 
 ## 유용한 링크
 [티스토리 홈](https://webit22.tistory.com/)
