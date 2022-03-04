@@ -13,7 +13,7 @@
 - 무슨 사진을 넣으면 좋을까?
 
 ## 내가 좋아하는 노래
-<iframe width="400" height="300" src="https://www.youtube.com/embed/mOajcjt8eeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>**태연 - Blue** <br><br>
 하얀 밤 아름답지만<br>
