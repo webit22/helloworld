@@ -2,7 +2,7 @@
 ### 데이터분석과 : 백엔드 개발 및 빅데이터 분석 과정 수강 중
 
 **Month of the Day**<br>
-<img width="200" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkr.linkedin.com%2Fcompany%2Fmarchtee&psig=AOvVaw25igNUZ_CRoS-ozbig5HJd&ust=1646445338926000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLDnlP-sq_YCFQAAAAAdAAAAABAD"/> <br>
+<img width="200" height="200" src="march.jfif"/> <br>
 
 **Self Introduction**<br>
 [발표자료](/2260341014.pdf) <br>
