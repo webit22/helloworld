@@ -1,15 +1,19 @@
 ## 1. 자기 소개
 [발표자료](/2260341014.pdf) <br>
+<img width="500" height="300" src="selfintro.jpg"/><br>
 
-|이름 |윤정빈|
+|항목|내용|
 |:---:|:---:|
-|email address | binifia@gmail.com|
-|skill set| C#, Java, MSSQL|
-|자격증| SQLD |
-|그 외| Toeic, Toeic Speaking|<br>
+|이름|윤정빈|
+|연락처|binifia@gmail.com|
+|Skill set|C#, Java, MSSQL|
+|자격증|SQLD|
+|수상|1. 2020 한이음 공모전 입선<br>2. 2020 자기주도학습 공모전 최우수상|
+|기타|1. (2020)한국전자통신연구원 자율주행지능연구실 인턴<br>2. (2021)메트로소프트 정보기술개발 인턴|
+<br>
 
 ## 2. 좋아하는 노래
-<iframe width="400" height="300" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="400" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>**태연 - Blue** <br><br>
 하얀 밤 아름답지만<br>
@@ -29,7 +33,7 @@
 너를 닮은 그 말<br><br>
 
 ## 3. 블로그
-<img width="400" height="200" src="blog_img.jpg"/><br>
+<img width="500" height="300" src="blog_img.jpg"/><br>
 [티스토리 홈](https://webit22.tistory.com/)<br><br>
 
 ## 4. 목표
