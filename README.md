@@ -32,12 +32,16 @@
 사랑이라는 말<br>
 너를 닮은 그 말<br><br>
 
-## 3. 블로그
-<img width="500" height="300" src="blog_img.jpg"/><br>
-[티스토리 홈](https://webit22.tistory.com/)<br><br>
-
-## 4. 목표
+## 3. Goal
 - [x] 나의 한계를 테스트 해보기 (어디까지 내가 해낼 수 있을지 궁금해)
 - [x] 인공지능 공부
 - [x] 백엔드 개발 프로젝트
-- [x] 즐거운 추억 만들기
+- [x] 즐거운 추억 만들기<br><br>
+
+## 4. Blog
+<img width="500" height="300" src="blog_img.jpg"/><br>
+[티스토리 홈](https://webit22.tistory.com/)<br><br>
+
+## 5. Youtube
+**GitHub 사용 방법 설명 영상**<br>
+<iframe width="500" height="300"  src="https://www.youtube.com/embed/zgVSlDh0DEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
