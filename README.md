@@ -1,18 +1,17 @@
 # 나의 첫 홈페이지<br>
 ### 데이터분석과 : 백엔드 개발 및 빅데이터 분석 과정 수강 중
 
-**Month of the Day**<br>
-<img width="200" height="200" src="march.jfif"/> <br>
-
 **Self Introduction**<br>
 [발표자료](/2260341014.pdf) <br>
 
-**지금 생각나는 것**
-- 오늘의 점심 메뉴
-- 홈페이지 어떻게 꾸미지?
-- 무슨 사진을 넣으면 좋을까?
+|이름 |윤정빈|
+|:---:|:---:|
+|email address | binifia@gmail.com|
+|skill set| C#, Java, MSSQL|
+|자격증| SQLD |
+|그 외| Toeic, Toeic Speaking|
 
-## 내가 좋아하는 노래
+## 좋아하는 노래
 <iframe width="400" height="300" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>**태연 - Blue** <br><br>
@@ -32,8 +31,8 @@
 사랑이라는 말<br>
 너를 닮은 그 말<br>
 
-
-## 유용한 링크
+## 블로그 소개
+<img src="blog_img.jpg"/><br>
 [티스토리 홈](https://webit22.tistory.com/)
 
 ## 앞으로 하고싶은 것
