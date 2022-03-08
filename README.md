@@ -8,11 +8,12 @@
 |연락처|binifia@gmail.com|
 |Skill set|C#, Java, MSSQL|
 |자격증|SQLD|
-|수상|(2020)한이음 공모전 입선<br>(2020)자기주도학습 공모전 최우수상|
-|기타|(2020)한국전자통신연구원 자율주행지능연구실 인턴<br>(2021)메트로소프트 정보기술개발 인턴|
-<br>
+|수상 |(2020)한이음 공모전 입선<br>(2020)자기주도학습 공모전 최우수상|
+|기타 |(2020)한국전자통신연구원 자율주행지능연구실 인턴<br>(2021)메트로소프트 정보기술개발 인턴|
 
-## 2. 좋아하는 노래
+
+
+## 2. 좋아하는 노래 <br>
 <iframe width="500" height="300" src="https://www.youtube.com/embed/tVtTdZt-HtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>**태연 - Blue** <br><br>
@@ -33,15 +34,22 @@
 너를 닮은 그 말<br><br>
 
 ## 3. Goal
-- [x] 나의 한계를 테스트 해보기 (어디까지 내가 해낼 수 있을지 궁금해)
-- [x] 인공지능 공부
-- [x] 백엔드 개발 프로젝트
-- [x] 즐거운 추억 만들기<br><br>
+- [ ] 나의 한계를 테스트 해보기 (어디까지 내가 해낼 수 있을지 궁금해)<br>
+- [ ] 인공지능 공부<br>
+- [ ] 백엔드 개발 프로젝트<br>
+- [ ] 즐거운 추억 만들기<br><br>
 
 ## 4. Blog
 <img width="500" height="300" src="blog_img.jpg"/><br>
 [티스토리 홈](https://webit22.tistory.com/)<br><br>
 
 ## 5. Youtube
-**GitHub 사용 방법 설명 영상**<br>
-<iframe width="500" height="300"  src="https://www.youtube.com/embed/zgVSlDh0DEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**GitHub 사용 방법**<br>
+<iframe width="500" height="300"  src="https://www.youtube.com/embed/zgVSlDh0DEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+
+**SourceTree를 활용한 git 사용법**<br>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/-XT5lCAyeKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 6. 느낀점
+- Git 수업에 대한 개요 : GitHub 사용법, github 계정을 eclipse와 연동해서 나의 remote repository로부터 clone/pull해와서 local에서 수정하고, 수정한 내용을 commit/push해서 remote에 반영할 수 있다. Git bash 명령어를 활용하여 터미널에서 확인하거나 Eclipse에서 쉽게 clone해와서 작업할 수 있다.
+- 힘들지만 극복한 점 : 항상 혼자서 git 사용 방법을 검색하고 헤메다가 포기했는데, 이번 수업을 통해 확실하게 git bash 사용법을 터득할 수 있었던 것 같다. 그동안 포기하면서 애매하게 익혔던 부분을 온전히 내 것으로 만들기 위해 반복 연습이 필요할 것 같아서 repository를 여러번 생성 삭제도 해보고 git bash, eclipse로 clone 해봐야겠다. 좀 더 잘 훈련된 상태에서 팀프로젝트에 직접 활용해보고 완성도를 높일 수 있도록 기여하고싶다.
